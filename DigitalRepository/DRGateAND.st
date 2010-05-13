@@ -1,5 +1,5 @@
 Object subclass: #DRGateAND
-	instanceVariableNames: 'locationX locationY'
+	instanceVariableNames: 'locationX locationY foo'
 	classVariableNames: ''
 	poolDictionaries: ''
 	category: 'DigitalRepository'!
